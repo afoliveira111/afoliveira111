@@ -3,24 +3,31 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/id-antonio-felipe/)
 
 
+
+
+
 ------------------
 
-- 💻 Hoje trabalho com Desenvolvimento Android | Kotlin
-- 🌱 Estudando Kotlin
-- 😄 Ele/Dele
-
+- 💻 Desenvolvedor Android | Kotlin
+- 🌱 Estudando Testes Unitários
 
 -------------------
 
-![Afoliveira111's GitHub stats](https://github-readme-stats.vercel.app/api?username=afoliveira111&show_icons=true&theme=dracula)
+![Afoliveira111's GitHub stats](https://github-readme-stats.vercel.app/api?username=afoliveira111&show_icons=true&theme=dracula)   
 
  
-### Tecnologias que uso no meu dia
+### Tecnologias que estou utilizando:
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img align="left" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
     <style="display: inline_block"><br/>    
 </div><br/>
 
 
 -------------------
+
+![kotlin]( https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/240px-Kotlin_Icon.svg.png)
+![Android]( https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Android_logo_%282014-2019%29.png/240px-Android_logo_%282014-2019%29.png)  
+  
+
+
