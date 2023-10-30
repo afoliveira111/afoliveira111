@@ -26,7 +26,7 @@
 
 -------------------
 
-![kotlin](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/150px-Kotlin_Icon.svg.png) 
+![kotlin]( https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/150px-Kotlin_Icon.svg.png) 
 ![Android]( https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Android_logo_%282014-2019%29.png/150px-Android_logo_%282014-2019%29.png)  
   
 
