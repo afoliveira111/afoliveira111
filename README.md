@@ -7,7 +7,7 @@
 
 - 📱  Android Developer | Kotlin
 - Studying 📚 MVVM | Compose
-- Telefone: 📞 +55 21 98268-8822
+- 📞 +55 21 98268-8822
 - E-mail: 📧 felipetermometria@hotmail.com
 
 -------------------
