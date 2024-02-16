@@ -6,7 +6,7 @@
 
 ------------------
 
-- 📱  Android Developer | Kotlin
+- 📱  Android Developer | Kotlin | React Native
 - 📚 Studying:  MVVM | Compose
 - 📞 +55 21 98268-8822
 - 📧 E-mail:  felipetermometria@hotmail.com
