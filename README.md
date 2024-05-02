@@ -29,7 +29,7 @@
 -------------------
 <div style="display: flex; align-items: center; gap: 10px;">
     <img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/150px-Kotlin_Icon.svg.png" />
-    <img alt="Android" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Android_logo_%282014-2019%29.png/150px-Android_logo_%282014-2019%29.png" />
-    <img alt="React Native" src="https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png" width="250" height="auto" style="margin-right: 20px;" />
+    <img alt="Android" src="https://cdn-icons-png.flaticon.com/512/226/226770.png" width="250" height="auto"/>
+    <img alt="React Native" src="https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png" width="250" height="auto" />
 </div>
 
