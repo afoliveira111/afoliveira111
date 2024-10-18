@@ -8,7 +8,7 @@
 
 - 📱  Android Developer | Kotlin | React Native
 - 📚 Studying:  MVVM | Compose
-- 📞 
+- 📞 926 916 667
 - 📧 E-mail:  felipetermometria@hotmail.com
 
 -------------------
