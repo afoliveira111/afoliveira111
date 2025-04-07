@@ -6,10 +6,7 @@
 
 ------------------
 
-- 📱  Android Developer | Kotlin | React Native
-- 📚 Studying:  MVVM | Compose
-- 📞 926 916 667 - Portugal
-- 📧 E-mail:  felipetermometria@hotmail.com
+- 📱  Android Developer | Kotlin 
 
 -------------------
 
