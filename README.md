@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,18,20,24,25&text=ANTÓNIO%20FELIPE&fontSize=70&fontAlignY=35&fontColor=fff&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20EMV%20Payments&descSize=25&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,18,20,24,25&text=ANTÓNIO%20OLIVEIRA&fontSize=70&fontAlignY=35&fontColor=fff&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20EMV%20Payments&descSize=25&descAlignY=55&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/id-antonio-felipe" target="_blank">
+  <a href="https://www.linkedin.com/in/id-antonio-felipe">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:afelipe.pt@outlook.com">
@@ -44,13 +44,13 @@ data class Developer(
     val location: String = "Coimbra, Portugal 🇵🇹",
     val experience: String = "3+ years Android | 15+ years IT",
     val specialization: List<String> = listOf(
-        "Native Android (Kotlin)",
+        "Native Android with Kotlin",
         "EMV/Tap2Phone Payments",
         "Hardware Integration",
         "WebView & JavaScript Bridge",
-        "Backend APIs (Node.js)"
+        "Backend APIs with Node.js"
     ),
-    val currentFocus: String = "Spotside - EMV Payment Systems",
+    val currentFocus: String = "Secure mobile and payment solutions",
     val philosophy: String = "Security, stability and real business impact"
 )
 ```
@@ -61,17 +61,17 @@ data class Developer(
 ### 🎯 Core Expertise
 
 - 📱 **Android Native**: Kotlin, MVVM, Clean Architecture
-- 💳 **EMV Payments**: Tap2Phone, NFC, Wizzit/Unicre SDK  
-- 🔌 **Hardware**: SmartBox/USB, Device Communication
+- 💳 **EMV Payments**: Tap2Phone, NFC, Wizzit/Unicre SDK
+- 🔌 **Hardware**: SmartBox/USB, device communication
 - 🌐 **WebView Integration**: JavaScript Bridge
-- 🔒 **Security**: ProGuard, FLAG_SECURE, Anti-repackaging
+- 🔒 **Security**: ProGuard, FLAG_SECURE, anti-repackaging
 - 🖥️ **Backend**: Node.js, Express, REST APIs, SQLite
 
 ### 📊 Background
 
-- 15+ years in IT (Infrastructure, Quality, Process Analysis)
-- Certified: ISO 27001, ITIL 4, Azure, Microsoft 365
-- Strong focus on real-world business solutions
+- 15+ years in IT: infrastructure, quality and process analysis
+- Certified in ITIL 4, ISO 27001, Azure and Microsoft 365
+- Strong focus on business-critical systems and real-world delivery
 
 </td>
 </tr>
@@ -123,18 +123,14 @@ data class Developer(
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🛠️ Tools & Security
+### 🛠️ Tools, Security & Processes
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ProGuard](https://img.shields.io/badge/ProGuard-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-0F9DCE?style=for-the-badge&logo=mail.ru&logoColor=white)
-
-### 📋 Methodologies & Certifications
-
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0F9DCE?style=for-the-badge&logo=maildotru&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL_4-6C1D5F?style=for-the-badge&logo=itil&logoColor=white)
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-FF0000?style=for-the-badge&logo=iso&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
 
@@ -144,23 +140,72 @@ data class Developer(
 
 <br>
 
-## 📊 GitHub Statistics
+## 📌 Professional Snapshot
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=afoliveira111&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFBF&icon_color=00FF88&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=afoliveira111&theme=radical&hide_border=true&background=0D1117&stroke=00BFBF&ring=00BFBF&fire=00FF88&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afoliveira111&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFBF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=afoliveira111&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00BFBF&text_color=FFFFFF" alt="Contribution Stats"/>
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>3+ Years</h3>
+<p>Android Development</p>
+</td>
+<td align="center" width="25%">
+<h3>15+ Years</h3>
+<p>IT Experience</p>
+</td>
+<td align="center" width="25%">
+<h3>EMV/NFC</h3>
+<p>Payment Systems</p>
+</td>
+<td align="center" width="25%">
+<h3>APIs & Hardware</h3>
+<p>System Integration</p>
+</td>
+</tr>
+</table>
+
 </div>
 
 <br>
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=afoliveira111&custom_title=Contribution%20Activity&bg_color=0D1117&color=FFFFFF&line=00BFBF&point=00FF88&area=true&hide_border=true&title_color=00BFBF" alt="Activity Graph"/>
-</div>
+### Engineering Focus
+
+| Area | Experience |
+|---|---|
+| **Mobile Development** | Native Android, Kotlin, Jetpack Compose, XML Views, MVVM, Clean Architecture |
+| **Payment Solutions** | EMV SDK, Tap2Phone, NFC, transaction lifecycle, refunds, cancellations |
+| **System Integration** | REST APIs, WebView bridge, JavaScript interface, backend communication |
+| **Hardware Communication** | SmartBox/USB, device events, vending machine payment flow |
+| **Security** | ProGuard, obfuscation, FLAG_SECURE, anti-repackaging, secure mobile flows |
+| **Process & Quality** | ITIL, Scrum, SLA/OLA/KPI, incident analysis, documentation and monitoring |
+
+<br>
+
+```mermaid
+timeline
+    title Professional Journey
+
+    2018 : IT Infrastructure Analyst
+         : Corporate support
+         : Monitoring and troubleshooting
+
+    2021 : Process and Quality Analyst
+         : Critical systems monitoring
+         : SLA, KPI and ITIL processes
+
+    2023 : Android Developer
+         : Kotlin, MVVM and Clean Architecture
+         : REST APIs, Room, Retrofit and Hilt
+
+    2024 : Android Payment Systems
+         : EMV, Tap2Phone and NFC
+         : WebView bridge and hardware integration
+
+    2025 : Fullstack Development
+         : Node.js, Express and SQLite
+         : Booking systems and process automation
+```
 
 <br>
 
@@ -177,16 +222,19 @@ data class Developer(
 <td width="50%">
 
 ### 💳 Spotside - EMV Payment System
-**Android Developer | Dez 2024 - Presente**
+**Android Developer | Dez 2024 - Dez 2025**
 
-Sistema completo de pagamentos Tap2Phone/EMV para máquinas de vending:
-- Integração SDK Wizzit/Unicre certificado
-- NFC, ciclo EMV completo, reembolsos
-- JavaScript Bridge WebView ↔ Native
-- Segurança: ProGuard, FLAG_SECURE
-- Hardware: SmartBox/USB integration
+Development of an Android payment solution for vending machines:
 
-`Kotlin` `EMV` `NFC` `WebView` `Security`
+- Native Android application built with Kotlin
+- EMV/Tap2Phone payment flow integration
+- NFC card reading and transaction processing
+- Refund and cancellation flows
+- WebView communication with JavaScript Bridge
+- SmartBox/USB hardware integration
+- Android security hardening
+
+`Kotlin` `EMV` `NFC` `WebView` `USB` `Security`
 
 </td>
 <td width="50%">
@@ -194,13 +242,15 @@ Sistema completo de pagamentos Tap2Phone/EMV para máquinas de vending:
 ### 📱 DevSpace - Mobile Apps
 **Android Developer | Jan 2023 - Dez 2024**
 
-Aplicações Android enterprise com arquitetura escalável:
-- MVVM & Clean Architecture
-- Coroutines, Room, Retrofit, Hilt
-- Testes unitários e otimização
-- Ciclos ágeis e Clean Code
+Development and maintenance of native Android applications:
 
-`Kotlin` `MVVM` `Coroutines` `Testing`
+- MVVM and Clean Architecture
+- Coroutines, Room, Retrofit and Hilt
+- API integration and local persistence
+- Unit testing and performance improvements
+- Agile development and clean code practices
+
+`Kotlin` `MVVM` `Coroutines` `Retrofit` `Testing`
 
 </td>
 </tr>
@@ -208,29 +258,33 @@ Aplicações Android enterprise com arquitetura escalável:
 <td width="50%">
 
 ### 🗓️ Essência BL - Booking System
-**Fullstack Developer | Nov 2025 - Presente**
+**Fullstack Developer | Nov 2025 - Present**
 
-Sistema de gestão de agendamentos:
-- Backend Node.js + Express + SQLite
-- REST API com validações complexas
-- Automação email (Nodemailer)
-- Interface admin e backups
+Booking management system for service scheduling:
 
-`Node.js` `Express` `SQLite` `API`
+- Backend with Node.js, Express and SQLite
+- REST API for bookings, services and customers
+- Availability rules and conflict validation
+- Email automation with Nodemailer
+- Admin interface and backup routines
+
+`Node.js` `Express` `SQLite` `REST API` `Automation`
 
 </td>
 <td width="50%">
 
 ### 📊 Montreal - Process & Quality
-**Analyst | Jan 2021 - Jun 2024**
+**Process and Quality Analyst | Jan 2021 - Jun 2024**
 
-Análise e monitorização de sistemas críticos:
-- Petróleo & Gás, ambientes críticos
-- SLA, OLA, KPI management
-- SCRUM, ITIL, documentação técnica
-- Coordenação de equipas
+Analysis and monitoring of critical business systems:
 
-`ITIL` `SCRUM` `Quality` `SLA`
+- Incident monitoring in Oil & Gas environments
+- SLA, OLA and KPI management
+- Technical documentation and knowledge base
+- Support process improvement
+- Collaboration with technical teams
+
+`ITIL` `Scrum` `Quality` `SLA` `Documentation`
 
 </td>
 </tr>
@@ -244,38 +298,47 @@ Análise e monitorização de sistemas críticos:
 
 <br>
 
-## 💡 Key Skills Summary
+## 💡 Key Skills Map
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00BFBF', 'primaryTextColor':'#fff', 'primaryBorderColor':'#00FF88', 'lineColor':'#00BFBF', 'secondaryColor':'#0D1117', 'tertiaryColor':'#1a1a1a'}}}%%
 mindmap
-  root((António Felipe))
+  root((António Oliveira))
     Android Native
       Kotlin
-      MVVM & Clean
+      MVVM
+      Clean Architecture
       Jetpack Compose
-      Coroutines & Room
+      Coroutines
+      Room
+      Retrofit
       Hilt/Dagger
     Payment Systems
-      EMV SDK Integration
-      Tap2Phone/NFC
+      EMV SDK
+      Tap2Phone
+      NFC
       Transaction Flow
-      Security & Compliance
-    Backend & APIs
-      Node.js & Express
+      Refunds
+      Cancellations
+      Security
+    Integration
       REST APIs
+      WebView
+      JavaScript Bridge
+      SmartBox USB
+      Hardware Events
+    Backend
+      Node.js
+      Express
       SQLite
       Email Automation
-    Hardware & Integration
-      SmartBox/USB
-      JavaScript Bridge
-      WebView Communication
-      Device Security
-    Quality & Process
+      API Design
+    IT Background
       ITIL 4
-      Scrum/Agile
+      Scrum
       ISO 27001
-      15+ years IT
+      Monitoring
+      SLA KPI
+      Process Improvement
 ```
 
 <br>
@@ -294,11 +357,50 @@ mindmap
 ![ITIL](https://img.shields.io/badge/ITIL_4_Foundation-6C1D5F?style=for-the-badge&logo=itil&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_&_Kotlin_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Licenciatura em Redes de Computadores** | Universidade Estácio | 2009-2011
+<br><br>
 
-**Idiomas:** Português (Nativo) | Inglês (B2 - Profissional)
+**Licenciatura em Redes de Computadores**  
+Universidade Estácio | 2009 - 2011
+
+<br>
+
+**Idiomas:** Português Nativo | Inglês Profissional B2
 
 </div>
+
+<br>
+
+---
+
+<br>
+
+## 🚀 What I Bring to a Team
+
+<table>
+<tr>
+<td width="33%">
+
+### 🔐 Secure Mobile Development
+
+Experience building Android applications with payment flows, device protection, obfuscation and security-focused implementation.
+
+</td>
+<td width="33%">
+
+### 🔗 Real System Integration
+
+Strong background connecting mobile apps with APIs, WebView interfaces, SDKs, hardware devices and backend services.
+
+</td>
+<td width="33%">
+
+### 📈 Business-Oriented Delivery
+
+15+ years in IT environments with focus on stability, incident resolution, documentation, process improvement and operational impact.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -310,9 +412,11 @@ mindmap
 
 <div align="center">
 
-### Let's discuss your next mobile project! 🚀
+### Let's discuss your next mobile or integration project 🚀
 
-<p>Specialized in Android native development, payment integrations, and secure mobile solutions.</p>
+<p>
+Specialized in Android native development, payment integrations, hardware communication and secure mobile solutions.
+</p>
 
 <a href="https://www.linkedin.com/in/id-antonio-felipe">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -322,8 +426,6 @@ mindmap
 </a>
 
 <br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
 
 </div>
 
@@ -335,7 +437,7 @@ mindmap
   
 ### ⭐ From [afoliveira111](https://github.com/afoliveira111) with 💙
 
-*"Security, stability, and real business impact — one line of code at a time."*
+*"Security, stability and real business impact — one line of code at a time."*
 
 </div>
 
